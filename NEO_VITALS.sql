@@ -1,4 +1,3 @@
--- Create Database
 CREATE DATABASE IF NOT EXISTS digital_medical_twin;
 USE digital_medical_twin;
 
